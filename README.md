@@ -12,7 +12,7 @@ You can take a look at the full university curriculum [here](https://www.uc3m.es
 ## Skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)
-![SQL](https://img.shields.io/badge/sql-276DC3?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)</br>
+![SQL](https://img.shields.io/badge/sql-276DC3?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)</br>
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)</br>
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)</br>
