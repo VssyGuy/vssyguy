@@ -19,8 +19,8 @@ You can take a look at the full university curriculum [here](https://www.uc3m.es
 ## Skills:
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=101010)
 ![Selenium](https://img.shields.io/badge/Selenium-5B9E4D?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-black?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-155724?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
+![LangChain](https://img.shields.io/badge/LangChain-40E0F1?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 ![SQL](https://img.shields.io/badge/sql-276DC3?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)</br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
