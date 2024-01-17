@@ -21,7 +21,7 @@ You can take a look at the full university curriculum [here](https://www.uc3m.es
 ![Selenium](https://img.shields.io/badge/Selenium-5B9E4D?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-black?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
-![SQL](https://img.shields.io/badge/sql-276DC3?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)</br>
+![SQL](https://img.shields.io/badge/sql-276DC3?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)</br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
